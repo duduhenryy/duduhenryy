@@ -42,13 +42,9 @@ Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=duduhenryy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=duduhenryy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=duduhenryy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=duduhenryy&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duduhenryy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=duduhenryy&theme=dark&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=duduhenryy&theme=dark&hide_border=false)  
 
 
 ## 🏆 GitHub Trophies:
