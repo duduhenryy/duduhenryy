@@ -27,7 +27,7 @@ Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/eduhccotta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduhccotta)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duduhenryy) 
 
 # 💻 Proeficiências:
