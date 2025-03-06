@@ -4,9 +4,9 @@
 
 🎯 Minha participação em projetos e iniciativas extracurriculares foi essencial para o desenvolvimento de competências interpessoais, liderança e trabalho em equipe:
 
-●	EmComp (Empresa Júnior de Computação): Atuei na área de marketing, desenvolvendo habilidades em gestão de projetos, comunicação e proatividade.
-●	DIRACC (Diretório Acadêmico de Ciência da Computação): Como Diretor de Esporte e Cultura, lidero ações voltadas ao aprimoramento acadêmico, organização de eventos e representação estudantil.
-●	PET Conexões Ciência da Computação: Integro o programa, contribuindo com projetos de inovação educacional e estratégias voltadas para o avanço do ensino superior, sempre com foco no impacto social e no desenvolvimento coletivo.
+  ●	EmComp (Empresa Júnior de Computação): Atuei na área de marketing, desenvolvendo habilidades em gestão de projetos, comunicação e proatividade.
+  ●	DIRACC (Diretório Acadêmico de Ciência da Computação): Como Diretor de Esporte e Cultura, lidero ações voltadas ao aprimoramento acadêmico, organização de eventos e representação estudantil.
+  ●	PET Conexões Ciência da Computação: Integro o programa, contribuindo com projetos de inovação educacional e estratégias voltadas para o avanço do ensino superior, sempre com foco no impacto social e no desenvolvimento coletivo.
 
 🌎 Sou fluente em inglês, o que me permite acompanhar materiais técnicos, colaborar com equipes internacionais e produzir documentação detalhada para projetos.
 
