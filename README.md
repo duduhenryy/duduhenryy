@@ -23,8 +23,6 @@ Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 
 🔍 Busco oportunidades para ingressar no mercado de tecnologia, aplicar meus conhecimentos e contribuir com soluções inovadoras. Sou movido por desafios que me permitam crescer, aprender e impactar positivamente as equipes e projetos dos quais faço parte.
 
-📩 Vamos conversar? Estou à disposição para conectar e explorar novas possibilidades!
-
 ## 🚀 Tecnologias & Ferramentas:
 - **Linguagens**: ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -46,6 +44,12 @@ Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=duduhenryy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 📩 Vamos conversar?Me siga aqui no GitHub e conecte-se comigo no LinkedIn. Estou à disposição para conectar e explorar novas possibilidades! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduhccotta)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duduhenryy) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=duduhenryy&icon=10&color=0)](https://visitcount.itsvg.in)
