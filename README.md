@@ -1,5 +1,7 @@
-💻 Graduando em Ciência da Computação pelo Instituto Federal do Sudeste de Minas Gerais (Campus Rio Pomba), atualmente no 8º período, com previsão de conclusão em fevereiro de 2025.
+💻 Graduado em Ciência da Computação pelo Instituto Federal do Sudeste de Minas Gerais (Campus Rio Pomba).
+
 🚀 Durante minha trajetória acadêmica, venho desenvolvendo habilidades técnicas em Python, além de conhecimentos complementares em Java, JavaScript e outras linguagens. Tenho interesse e experiência nas áreas de visão computacional, ciência de dados, algoritmos avançados e desenvolvimento web e mobile.
+
 🎯 Minha participação em projetos e iniciativas extracurriculares foi essencial para o desenvolvimento de competências interpessoais, liderança e trabalho em equipe:
 ●	EmComp (Empresa Júnior de Computação): Atuei na área de marketing, desenvolvendo habilidades em gestão de projetos, comunicação e proatividade.
 ●	DIRACC (Diretório Acadêmico de Ciência da Computação): Como Diretor de Esporte e Cultura, lidero ações voltadas ao aprimoramento acadêmico, organização de eventos e representação estudantil.
