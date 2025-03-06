@@ -25,11 +25,6 @@ Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 
 📩 Vamos conversar? Estou à disposição para conectar e explorar novas possibilidades!
 
-
-## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduhccotta)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duduhenryy) 
-
 ### 🚀 Tecnologias & Ferramentas:
 - **Linguagens**: ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -40,13 +35,13 @@ Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 - **Frameworks e Ferramentas**: ![Hibernate](https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=duduhenryy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duduhenryy&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duduhenryy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies:
+### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=duduhenryy&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo:
