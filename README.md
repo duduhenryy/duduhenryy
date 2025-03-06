@@ -46,10 +46,12 @@ Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 ![](https://github-contributor-stats.vercel.app/api?username=duduhenryy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-## 📩 Vamos conversar?Me siga aqui no GitHub e conecte-se comigo no LinkedIn. Estou à disposição para conectar e explorar novas possibilidades! 🚀
+## 📩 Vamos conversar?
+
+Me siga aqui no GitHub e conecte-se comigo no LinkedIn. Estou à disposição para conectar e explorar novas possibilidades! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduhccotta)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duduhenryy) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duduhenryy) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=duduhenryy&icon=10&color=0)](https://visitcount.itsvg.in)
