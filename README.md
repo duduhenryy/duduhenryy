@@ -1,6 +1,6 @@
 
 
-# 💫 Sobre Mim:
+# 💫 Sobre Mim
 Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 
 💻 Sou graduado em Ciência da Computação pelo Instituto Federal do Sudeste de Minas Gerais - Campus Rio Pomba.
