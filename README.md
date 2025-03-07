@@ -5,7 +5,7 @@ Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 
 💻 Sou graduado em Ciência da Computação pelo Instituto Federal do Sudeste de Minas Gerais - Campus Rio Pomba.
 
-🚀 Durante minha trajetória acadêmica, venho desenvolvendo habilidades técnicas em Python, além de conhecimentos complementares em Java, JavaScript e outras linguagens. Tenho interesse e experiência nas áreas de visão computacional, ciência de dados, algoritmos avançados e desenvolvimento web e mobile.
+🚀 Durante minha trajetória acadêmica, venho desenvolvendo habilidades técnicas em Python, além de conhecimentos complementares em Java, JavaScript e outras linguagens e em metodologias ágeis e padrões de projetos. Tenho interesse e experiência nas áreas de visão computacional, ciência de dados, algoritmos avançados e desenvolvimento web e mobile.
 
 🎯 Minha participação em projetos e iniciativas extracurriculares foi essencial para o desenvolvimento de competências interpessoais, liderança e trabalho em equipe:
 
