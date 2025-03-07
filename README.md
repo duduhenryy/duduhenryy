@@ -45,9 +45,6 @@ Olá. Meu nome é Eduardo Henrique, e seja bem-vindo ao meu perfil!
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=duduhenryy&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=duduhenryy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ## 📩 Vamos conversar?
 
